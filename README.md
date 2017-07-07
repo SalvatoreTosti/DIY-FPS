@@ -1,2 +1,10 @@
-# DIY-FPS
-Unity scripts, prefabs and packages to aid in building FPS games
+# DIY FPS
+_An FPS prototyping kit for Unity 5.x_
+
+---
+
+## Authors
+  _Salvatore Tosti - @LightWorlds__
+
+## License
+  _MIT License_
